@@ -1,1 +1,1 @@
-# days-calculator
+# days-calculator NPM Package
